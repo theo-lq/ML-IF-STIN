@@ -2,12 +2,12 @@
 
 ## Promotion 2023-2024
 Repository du cours : TP et documents sont mis à jour au fil des séances.
-* Séance 1 (31/01/2024) : Introduction et régression linéaire
-* Séance 2 (06/03/2024) : Régression logistique
-* Séance 3 (13/03/2024) : Arbre et méthode ensembliste (Random Forest et ExtraTrees)
-* Séance 4 (20/03/2024) : Boosting
-* Séance 5 (24/04/2024) : Support Vector Machine
-* Séance 6 (29/05/2024) : Clustering
+* Séance 1 (31/01/2024) : Introduction et régression linéaire - Prédiction du prix d'un diamant
+* Séance 2 (06/03/2024) : Régression logistique - Identification de pulsars
+* Séance 3 (13/03/2024) : Arbre et méthode ensembliste (Random Forest et ExtraTrees) - Prédiction du churn
+* Séance 4 (20/03/2024) : Boosting - Prédiction du prix d'un billet d'avion
+* Séance 5 (24/04/2024) : Support Vector Machine - Prédiction de chiffres manuscrit
+* Séance 6 (29/05/2024) : Clustering - Recommandation de livres
 
 ## Promotion 2022-2023
 Repository du cours : TP et documents sont mis à jour au fil des séances.
