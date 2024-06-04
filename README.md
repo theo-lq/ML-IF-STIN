@@ -8,6 +8,7 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 4 (20/03/2024) : Boosting - Prédiction du prix d'un billet d'avion
 * Séance 5 (24/04/2024) : Support Vector Machine - Prédiction de chiffres manuscrit
 * Séance 6 (29/05/2024) : Clustering - Recommandation de livres
+* Séance 7 (05/06/2024) : Réduction de dimension - Affiches de films similaire
 
 ## Promotion 2022-2023
 Repository du cours : TP et documents sont mis à jour au fil des séances.
