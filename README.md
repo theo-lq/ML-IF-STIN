@@ -12,6 +12,7 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 
 ### Compétition
 Lien: https://www.kaggle.com/t/6ffd00a76ded4410bf0191f7e6e1b28b
+
 Notebook de départ: Starter.ipynb
 
 ## Promotion 2022-2023
