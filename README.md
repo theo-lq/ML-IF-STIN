@@ -10,6 +10,10 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 6 (29/05/2024) : Clustering - Recommandation de livres
 * Séance 7 (05/06/2024) : Réduction de dimension - Affiches de films similaire
 
+### Compétition
+Lien: https://www.kaggle.com/t/6ffd00a76ded4410bf0191f7e6e1b28b
+Notebook de départ: Starter.ipynb
+
 ## Promotion 2022-2023
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (25/01/2023) : Introduction et régression linéaire
