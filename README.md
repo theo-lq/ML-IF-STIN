@@ -1,6 +1,6 @@
 # Introduction au Machine Learning - Master IF (Université Paris-Dauphine, PSL)
 
-## Promotion 2023-2024
+## Promotion 2023-2024 (IF)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (31/01/2024) : Introduction et régression linéaire - Prédiction du prix d'un diamant
 * Séance 2 (06/03/2024) : Régression logistique - Identification de pulsars
@@ -12,10 +12,10 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 
 ### Compétition
 Lien: https://www.kaggle.com/t/6ffd00a76ded4410bf0191f7e6e1b28b
-
 Notebook de départ: Starter.ipynb
 
-## Promotion 2022-2023
+
+## Promotion 2022-2023 (IF)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (25/01/2023) : Introduction et régression linéaire
 * Séance 2 (01/02/2023) : Régression logistique
