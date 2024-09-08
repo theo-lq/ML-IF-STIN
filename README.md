@@ -1,4 +1,4 @@
-# Introduction au Machine Learning - Master IF (Université Paris-Dauphine, PSL)
+# Introduction au Machine Learning - Master IF et SITN (Université Paris-Dauphine, PSL)
 
 ## Promotion 2023-2024 (IF)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
