@@ -1,5 +1,14 @@
 # Introduction au Machine Learning - Master IF et SITN (Université Paris-Dauphine, PSL)
 
+> [!IMPORTANT]
+> Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
+
+
+## Promotion 2023-2024 (IF & SITN)
+Repository du cours : TP et documents sont mis à jour au fil des séances.
+* Séance 1 (24/09/2024) : Introduction et méthodes linéaire - Prédiction du prix d'un diamant ou identification de pulsars
+
+
 ## Promotion 2023-2024 (IF)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (31/01/2024) : Introduction et régression linéaire - Prédiction du prix d'un diamant
@@ -9,10 +18,6 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 5 (24/04/2024) : Support Vector Machine - Prédiction de chiffres manuscrit
 * Séance 6 (29/05/2024) : Clustering - Recommandation de livres
 * Séance 7 (05/06/2024) : Réduction de dimension - Affiches de films similaire
-
-### Compétition
-Lien: https://www.kaggle.com/t/6ffd00a76ded4410bf0191f7e6e1b28b
-Notebook de départ: Starter.ipynb
 
 
 ## Promotion 2022-2023 (IF)
