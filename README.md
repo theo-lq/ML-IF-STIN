@@ -4,7 +4,7 @@
 > Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
 
 
-## Promotion 2023-2024 (IF & SITN)
+## Promotion 2024-2025 (IF & SITN)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (24/09/2024) : Introduction et méthodes linéaire - Prédiction du prix d'un diamant ou identification de pulsars
 
