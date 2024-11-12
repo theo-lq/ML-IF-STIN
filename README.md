@@ -9,6 +9,7 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (24/09/2024) : Introduction et méthodes linéaire - Prédiction du prix d'un diamant ou identification de pulsars
 * Séance 2 (01/10/2024) : Arbres et méthodes d'ensemble - Prédiction du churn
 * Séance 3 (05/11/2024) : Boosting - Prédiction du prix d'un billet d'avion
+* Séance 4 (12/11/2024) : Clustering - Système de recommandation de livre
 
 
 ## Promotion 2023-2024 (IF)
