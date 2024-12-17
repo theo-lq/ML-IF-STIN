@@ -10,10 +10,10 @@ Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 2 (01/10/2024) : Arbres et méthodes d'ensemble - Prédiction du churn
 * Séance 3 (05/11/2024) : Boosting - Prédiction du prix d'un billet d'avion
 * Séance 4 (12/11/2024) : Clustering - Système de recommandation de livre
-* Séance 5 SITN (10/12/2024) : Réduction de dimension - Identifier le genre d'un film selon l'affiche ([feedback](https://forms.gle/LtR6qWcSB2kre83QA))
-* Séance 5 IF (11/12/2024) : Support Vector Machine - Reconnaitre des nombres ([feedback](https://forms.gle/NYkMKpjmXg4vKoz57))
-* Séance 6 SITN (17/12/2024) : Modèles de langage
-* Séance 6 IF (18/12/2024) : Réduction de dimension - Identifier le genre d'un film selon l'affiche
+* Séance 5 SITN (10/12/2024) : Réduction de dimension - Identifier le genre d'un film selon l'affiche
+* Séance 5 IF (11/12/2024) : Support Vector Machine - Reconnaitre des nombres
+* Séance 6 SITN (17/12/2024) : Modèles de langage ([feedback](https://forms.gle/PMfw7ExTEg6zLBUn8))
+* Séance 6 IF (18/12/2024) : Réduction de dimension - Identifier le genre d'un film selon l'affiche ([feedback](https://forms.gle/y991EkYVahjJzKsr7))
 
 
 ## Promotion 2023-2024 (IF)
