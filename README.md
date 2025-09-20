@@ -5,7 +5,13 @@
 > > Ils sont pour le moment tous indisponible pour cause de révision pour l'année scolaire 2025-2026.
 
 
-## Promotion 2023-2024 (IF & SITN)
+## Promotion 2025-2026 (SITN)
+Repository du cours : TP et documents sont mis à jour au fil des séances.
+* Séance 1 (23/01/2026) : Introduction et méthodes linéaire - Prédiction du prix d'un diamant ou identification de pulsars
+* Séance 2 (23/01/2026) : Arbres et méthodes d'ensemble - Prédiction du churn
+
+
+## Promotion 2024-2025 (IF & SITN)
 Repository du cours : TP et documents sont mis à jour au fil des séances.
 * Séance 1 (24/09/2024) : Introduction et méthodes linéaire - Prédiction du prix d'un diamant ou identification de pulsars
 * Séance 2 (01/10/2024) : Arbres et méthodes d'ensemble - Prédiction du churn
